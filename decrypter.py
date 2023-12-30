@@ -1,12 +1,3 @@
-###
-###     Author: Randall Candaso
-###     Course: CSc 110
-###     Description: This program asks the user to input an already encrypted file
-###                  along with its index file. Then, the program will take the
-###                  encrypted file and reorganize it back to its original order
-###                  based on the index file.
-###
-
 def main():
     '''
     This function asks the user for the encrypted file,
